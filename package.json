@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wcandillon/react-native-expo-image-cache.git"
+    "url": "https://github.com/UseAllFive/react-native-expo-image-cache.git"
   },
   "author": "William Candillon <wcandillon@gmail.com>",
   "license": "MIT",
@@ -25,9 +25,9 @@
     "cache"
   ],
   "bugs": {
-    "url": "https://github.com/wcandillon/react-native-expo-image-cache/issues"
+    "url": "https://github.com/UseAllFive/react-native-expo-image-cache/issues"
   },
-  "homepage": "https://github.com/wcandillon/react-native-expo-image-cache#readme",
+  "homepage": "https://github.com/UseAllFive/react-native-expo-image-cache#readme",
   "devDependencies": {
     "@team-griffin/install-self-peers": "^1.1.1",
     "babel-eslint": "^8.2.1",
